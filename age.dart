@@ -1,4 +1,6 @@
 void main() {
-  int age = 19;
-  print("age = $age");
+  int date = 06;
+  int month = 11;
+  int year = 205;
+  print("natal day :  $date-$month-$year");
 }
